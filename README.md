@@ -10,11 +10,14 @@
 - **OpenAI**: Language models to understand and generate human-like text.
 - **Tavily Search**: A search tool used to fetch real-time stock information.
 - **LangGraph**: A tool for building and managing complex workflows.
+- **Hugging Face**: Deployed t5 based model
+- **Google Studio Ai**: Prompt Engineering for Gemini 1.5
 
 
 # Finspire of Rookie Techies
+![ROOKIETECHIES FINTECH (1)-01-min](https://github.com/user-attachments/assets/cd168fa3-96df-40b4-afa5-48de44fac306)
 
-<img width="1728" alt="FINSPIRE1" src="https://github.com/RookieTechies-FinWise/.github/assets/122113456/3ae78426-efc8-4658-a80c-4c2e074c77f4">
+
 
 ## SERVICES WE PROVIDE
 
