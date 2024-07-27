@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # [Finspire](https://rookietechies-finspire.vercel.app/)
 ## Deployed via [Vercel](https://vercel.com/), 
 
@@ -26,7 +26,6 @@
 - **Educational Resources**: Access to educational materials and tutorials on financial concepts and investment strategies.
 - **Expense Storing**: Storing expenses via voice messages and organizing them in an efficient manner
 
-### Presentation Link [ROOKIETECHIES FINTECH](https://github.com/TanmayNewatia/FinSpire/files/15446769/ROOKIETECHIES.FINTECH.pdf)
 =======
 # Rookie_Techies-FineSpire
 >>>>>>> 3814044867d4d111054c2aa8468cf9880c5720b3
